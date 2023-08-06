@@ -10,11 +10,16 @@
 
 ## Screenshots
 
-<img width="355" alt="Screenshot 1" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/51966cab-9606-40b1-8709-78611836cdd2">
-<img width="355" alt="Screenshot 2" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/e76c1cf8-25cd-46fb-91ce-02d2fe576dc9">
-<img width="355" alt="Screenshot 3" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/078026d8-36e2-4671-81ad-0c211157effa">
-<img width="355" alt="Screenshot 4" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/d24c8c47-58cc-4448-8ac0-91b4c1fca39a">
-<img width="355" alt="Screenshot 5" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/f7063978-f4f1-4dd7-9414-a4d527910094">
-<img width="355" alt="Screenshot 6" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/966933eb-cf4d-4f04-a38a-27e61a2fe897">
-<img width="355" alt="Screenshot 7" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/57eec75e-5311-4e64-8cbc-749bdf0dc908">
-<img width="355" alt="Screenshot 8" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/93ee69bc-2ce0-4c5e-8b38-2d141c3cdc97">
+<img width="359" alt="Screenshot 2023-08-06 at 6 46 37 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/2d9680c1-bfbd-4751-a886-d6bc81797584">
+<img width="359" alt="Screenshot 2023-08-06 at 6 46 48 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/7e431d2f-e343-4e51-a2a2-d5d3ebcaea5d">
+<img width="359" alt="Screenshot 2023-08-06 at 6 47 03 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/cab6a582-1311-4565-b8d8-5fd20f1cd129">
+<img width="359" alt="Screenshot 2023-08-06 at 6 47 27 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/42da6477-3e00-49a1-881d-cbd4698adef4">
+<img width="359" alt="Screenshot 2023-08-06 at 6 48 06 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/9c3ad73c-7fa0-4648-918f-e6a088d6c2e5">
+<img width="359" alt="Screenshot 2023-08-06 at 6 48 17 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/a185a364-b3fb-4db1-8817-6a8ded8b2d8d">
+<img width="359" alt="Screenshot 2023-08-06 at 6 48 22 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/c25eba6c-07e0-4fc4-ab82-5e95e6eb83bc">
+<img width="359" alt="Screenshot 2023-08-06 at 6 48 26 PM" src="https://github.com/pravieen/Agricultural-Management-System/assets/100255410/bca68ddb-99aa-4698-8106-3a985a5f2d13">
+
+
+
+
+
